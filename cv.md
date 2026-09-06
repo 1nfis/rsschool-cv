@@ -1,8 +1,8 @@
 # Full Name: Alexando Popov
 
 ## Contact information:
-- **Email:** donat.ej@mail.ru
-- **Discord:** 1NFIS
+- **Email:** example@example.com
+- **Discord:** example
 - **Telegram:** @1NFIS
 
 ## About me
