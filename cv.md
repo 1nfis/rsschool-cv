@@ -3,7 +3,7 @@
 ## Contact information:
 - **Email:** example@example.com
 - **Discord:** example
-- **Telegram:** @1NFIS
+- **Telegram:** example
 
 ## About me
 I am a student eager to complete this course with the goal of securing an internship in the future to gain real-world experience. Currently, I am studying Software Engineering at university. Although I do not yet have professional work experience, I am highly motivated, persistent, and capable of working independently. I possess strong analytical thinking and problem-solving skills, and I am not afraid to tackle complex challenges. I have a genuine passion for learning and continuously expanding my knowledge. Even after this course is completed, I plan to keep advancing my skills on my own — this is just the beginning of my journey, and I am committed to growing as a developer.
